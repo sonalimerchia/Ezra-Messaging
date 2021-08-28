@@ -1,0 +1,6 @@
+[submodule "ezra-hub"]
+	path = ezra-hub
+	url = https://github.com/sonalimerchia/ezra-hub.git
+[submodule "ezra-mobile"]
+	path = ezra-mobile
+	url = https://github.com/sonalimerchia/ezra-mobile.git
